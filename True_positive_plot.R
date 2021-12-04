@@ -1,5 +1,6 @@
 #IN THIS SCRIPT YOU CAN PLOT ALL THE RESULTS FROM TRUE POSITIVE TESTS
 #SUGGESTION: RUN THE CODE IN THE SAME FOLDER OF THE .TXT FILES
+#COMMAND: Rscript True_positve_plot.R <first_file> <second_file> and so on...
 
 #Call of all the libraries
 library("ggplot2")
