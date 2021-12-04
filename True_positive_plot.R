@@ -1,6 +1,7 @@
 #IN THIS SCRIPT YOU CAN PLOT ALL THE RESULTS FROM TRUE POSITIVE TESTS
 #SUGGESTION: RUN THE CODE IN THE SAME FOLDER OF THE .TXT FILES
 
+#Call of all the libraries
 library("ggplot2")
 library("tidyr")
 library("dplyr")
