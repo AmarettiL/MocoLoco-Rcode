@@ -1,5 +1,6 @@
 #THIS PROGRAM IS USED TO HAVE A CLOSE UP ON IMPLANTING FREQUENCES FROM 6 TO 9%
 #SUGGESTION: RUN THE CODE IN THE SAME FOLDER OF .TXT FILES
+#COMMAND: Rscript True_positve_plot.R <first_file> <second_file> and so on...
 
 library("ggplot2")
 library("ggpubr")
