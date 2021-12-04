@@ -10,7 +10,6 @@ library("ggpubr")
 #With this line of code is possible to tell to the command line that the user can store some arguments to the Rscript
 args = commandArgs(trailingOnly=TRUE)
 
-freqvect = c("5","10","15","20","25","35","45","55","65","75")
 #Here I define the function funplot, this function need as arguments the files where there are the results from our tests
 #each file is the argument of this function.
 funplot <- function(file){
